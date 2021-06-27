@@ -1,4 +1,4 @@
-# The Tea
+# spinning-parrot
 
 ## yourfriend's miniprojects, project #3
 
